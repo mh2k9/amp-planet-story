@@ -1,0 +1,43 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "small",
+      "title": "Learn about moon",
+      "url": "https://wikipedia.org/wiki/Moon",
+      "image": "assets/planets/moon.jpg"
+    },
+    {
+      "type": "landscape",
+      "title": "Learn about mars",
+      "url": "https://wikipedia.org/wiki/Mars",
+      "image": "assets/planets/mars1.jpg",
+      "category": "mars"
+    },
+    {
+      "type": "portrait",
+      "title": "Learn about sun",
+      "url": "https://wikipedia.org/wiki/Sun",
+      "image": "assets/planets/sun1.jpg",
+      "category": "sun"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "https://en.wikipedia.org/wiki/Observable_universe"
+        }
+      ]
+    }
+  ]
+}
