@@ -4,6 +4,7 @@ This is a demo story app using [AMP](https://www.ampproject.org/docs/) and PHP (
 # Prerequisites
 - PHP >= 5.6
 - Yii Framework >= 1.6
+- Git
 
 # How to run
 - Clone from https://github.com/mh2k9/amp-planet-story.git
