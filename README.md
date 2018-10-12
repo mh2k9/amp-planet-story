@@ -1,5 +1,5 @@
 # AMP Planet Story
-This is a demo app (Story of planets) using AMP and PHP (Yii) technologies.
+This is a demo story app using [AMP](https://www.ampproject.org/docs/) and PHP ([Yii Framework](https://www.yiiframework.com/)) technologies.
 
 # Prerequisites
 - PHP >= 5.6
