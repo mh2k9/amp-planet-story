@@ -1,0 +1,245 @@
+2018/10/12 10:42:56 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:20 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:40 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:42 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:42 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:42 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:43 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:43 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:43 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:43 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:43 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:44 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:44 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:44 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:45 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:45 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:45 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:46 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:46 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:46 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 10:43:46 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/home/w3e41/Documents/projects/amp/amp-yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(354): require()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 11:40:23 [error] [php] Undefined variable: couver (/home/w3e41/Documents/projects/amp/amp-yii/protected/views/site/index.php:17)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(30): SiteController->render()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 11:41:16 [error] [php] Undefined variable: couver (/home/w3e41/Documents/projects/amp/amp-yii/protected/views/site/index.php:17)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(30): SiteController->render()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 11:42:02 [error] [php] Undefined variable: couver (/home/w3e41/Documents/projects/amp/amp-yii/protected/views/site/index.php:17)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(30): SiteController->render()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/
+2018/10/12 11:42:23 [error] [php] Undefined index: title (/home/w3e41/Documents/projects/amp/amp-yii/protected/views/site/index.php:101)
+Stack trace:
+#0 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /home/w3e41/Documents/projects/amp/amp-yii/protected/controllers/SiteController.php(30): SiteController->render()
+#3 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /home/w3e41/Documents/projects/amp/amp-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/w3e41/Documents/projects/amp/amp-yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/w3e41/Documents/projects/amp/amp-yii/index.php(11): CWebApplication->run()
+REQUEST_URI=/

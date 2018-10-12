@@ -1,0 +1,44 @@
+{
+  "story_meta": {
+    "title" : "The story of planets",
+    "publisher": "Mahadi Hasan",
+    "publisher_logo": "/images/AMP-Brand-White-Icon.svg",
+    "publisher_portrait_logo": "/images/planets/planet.jpg"
+  },
+  "cover": {
+    "image": "/images/planets/planet1.jpg",
+    "header": "Story of Planets",
+    "author": "Mahadi Hasan"
+  },
+  "pages": {
+    "moon": {
+      "title": "The Moon",
+      "image": "/images/planets/moon.jpg",
+      "description": "The Moon is an astronomical body that orbits planet Earth and is Earth's only permanent natural satellite."
+    },
+    "mars": {
+      "title": "The Mars",
+      "image": "/images/planets/mars.jpg",
+      "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury"
+    },
+    "earth": {
+      "title": "The Earth",
+      "image": "/images/planets/earth1.jpg",
+      "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life."
+    },
+    "sun": {
+      "title": "The Sun",
+      "image": "/images/planets/sun1.jpg",
+      "description": "The Sun in the center of our solar system is a yellow dwarf star. It gives off energy as light. That includes light, infra-red energy (heat), ultraviolet light and radio waves."
+    }
+  },
+  "gallery": {
+    "images": [
+      "/images/planets/mars1.jpg",
+      "/images/planets/mars2.jpg",
+      "/images/planets/mars3.jpg",
+      "/images/planets/mars4.jpg"
+    ],
+    "title": "The mars gallery"
+  }
+}
