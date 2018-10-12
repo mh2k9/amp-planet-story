@@ -1,3 +1,10 @@
+# AMP Planet Story
+This is a demo story app using AMP and PHP (Yii) technologies.
+
+# Prerequisites
+- PHP >= 5.6
+- Yii Framework >= 1.6
+
 # How to run
 - Clone from https://github.com/mh2k9/amp-planet-story.git
 - Go to amp-planet-story directory
